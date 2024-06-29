@@ -22,12 +22,12 @@ public class Animal {
 		int min = 1;
 		int max = 10;
 		int range = max - min + 1;
-		
-		for (int i = 0; i < 10 ; i++) {
-			int rand = (int)(Math.random() * range) + min;
-			
+
+		for (int i = 0; i < 10; i++) {
+			int rand = (int) (Math.random() * range) + min;
+
 			System.out.println(rand);
-			
+
 		}
 
 	}

@@ -12,9 +12,5 @@ public class Panda extends Animal {
 	public void eat(int amount) {
 		System.out.println("Nom nom nom, I am eating " + amount + " bamboo shoots.");
 	}
-	
-	
 
-	
-	
 }
