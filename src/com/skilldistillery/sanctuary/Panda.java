@@ -4,7 +4,7 @@ public class Panda extends Animal {
 	private static String noise = "Rawrrr";
 
 	@Override
-	public void makeNoise(String makeNoise) {
+	public void makeNoise() {
 		System.out.println(noise);
 	}
 

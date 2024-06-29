@@ -4,7 +4,7 @@ public class Hyena extends Animal {
 	private static String noise = "Heehee";
 
 	@Override
-	public void makeNoise(String makeNoise) {
+	public void makeNoise() {
 		System.out.println(noise);
 	}
 
