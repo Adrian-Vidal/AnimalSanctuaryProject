@@ -26,6 +26,8 @@ public class Animal {
 		for (int i = 0; i < 10 ; i++) {
 			int rand = (int)(Math.random() * range) + min;
 			
+			System.out.println(rand);
+			
 		}
 
 	}
