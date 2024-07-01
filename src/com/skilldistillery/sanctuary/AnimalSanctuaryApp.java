@@ -29,8 +29,24 @@ public class AnimalSanctuaryApp {
 				System.out.println("1.) Snake \n2.) Hyena \n3.) Fish \n4.) Panda");
 				userInput = keyboard.nextInt();
 				if (userInput == 1) {
-					System.out.println("add snake");
+					System.out.println("Type in a name for the new snake:");
+					String userNameInput = keyboard.next();
+					Sanctuary Snake = new Sanctuary();
+					
+				} else if (userInput == 2) {
+					System.out.println("Type in a name for the new hyena:");
+					String userNameInput = keyboard.next();
+				} else if (userInput == 3) {
+					System.out.println("Type in a name for the new fish:");
+					String userNameInput = keyboard.next();
+				} else if (userInput == 4) {
+					System.out.println("Type in a name for the new panda:");
+					String userNameInput = keyboard.next();
+				} else {
+					System.out.println("Invalid option, returning to menu.");
+					break;
 				}
+				
 
 				System.out.println("\nPlease select an option from the menu below: \n"
 						+ "============================================"

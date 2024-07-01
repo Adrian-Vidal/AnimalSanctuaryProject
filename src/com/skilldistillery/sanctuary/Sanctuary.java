@@ -30,5 +30,8 @@ public class Sanctuary {
 	public void makeRounds() {
 
 	}
+	public void push(String[] object) {
+		
+	}
 
 }
