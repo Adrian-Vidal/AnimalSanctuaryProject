@@ -1,6 +1,9 @@
 # AnimalSanctuaryProject
 
 ## Overview
+- Create an animal sanctuary that has enclosures fore the animals and an attendee to care for  the animals.
+- 
+
 
 
 
@@ -9,7 +12,7 @@
 - Java
 - Object-Oriented Programming
 	- Inheritance
+	-- Polymorphism
 	
-	- Polymorphism
 	
 ## Lessons Learned

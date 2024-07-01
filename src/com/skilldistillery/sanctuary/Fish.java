@@ -10,7 +10,7 @@ public class Fish extends Animal {
 
 	@Override
 	public void eat(int amount) {
-		System.out.println("Pellets again? Oh well. (eats " + amount + " pellets)");
+		System.out.println("Pellets again? Oh well. (eats " + amount + " pellet(s))");
 	}
 
 }

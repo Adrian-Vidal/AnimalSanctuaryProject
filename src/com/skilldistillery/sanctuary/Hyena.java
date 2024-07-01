@@ -10,7 +10,7 @@ public class Hyena extends Animal {
 
 	@Override
 	public void eat(int amount) {
-		System.out.println("I'm chowing down " + amount + " pounds of mystery meat.");
+		System.out.println("I'm chowing down " + amount + " pound(s) of mystery meat.");
 	}
 
 }

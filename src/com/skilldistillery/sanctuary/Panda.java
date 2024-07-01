@@ -10,7 +10,7 @@ public class Panda extends Animal {
 
 	@Override
 	public void eat(int amount) {
-		System.out.println("Nom nom nom, I am eating " + amount + " bamboo shoots.");
+		System.out.println("I am eating " + amount + " bamboo shoot(s), nom nom nom.");
 	}
 
 }

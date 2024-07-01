@@ -10,7 +10,7 @@ public class Snake extends Animal {
 
 	@Override
 	public void eat(int amount) {
-		System.out.println("I'm a slithery snake doing snake things, such as eating " + amount + " rats.");
+		System.out.println("I'm a snake doing snake things, such as eating " + amount + " rat(s).");
 	}
 
 }
