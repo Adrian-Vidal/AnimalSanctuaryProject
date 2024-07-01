@@ -13,4 +13,9 @@ public class Hyena extends Animal {
 		System.out.println("I'm chowing down " + amount + " pound(s) of mystery meat.");
 	}
 
+	@Override
+	public String toString() {
+		return "Hyena";
+	}
+
 }

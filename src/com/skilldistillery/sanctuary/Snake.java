@@ -13,4 +13,9 @@ public class Snake extends Animal {
 		System.out.println("I'm a snake doing snake things, such as eating " + amount + " rat(s).");
 	}
 
+	@Override
+	public String toString() {
+		return "Snake";
+	}
+
 }

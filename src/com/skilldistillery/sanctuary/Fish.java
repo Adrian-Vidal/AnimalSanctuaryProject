@@ -13,4 +13,9 @@ public class Fish extends Animal {
 		System.out.println("Pellets again? Oh well. (eats " + amount + " pellet(s))");
 	}
 
+	@Override
+	public String toString() {
+		return "Fish";
+	}
+
 }

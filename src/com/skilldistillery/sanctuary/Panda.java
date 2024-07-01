@@ -13,4 +13,9 @@ public class Panda extends Animal {
 		System.out.println("I am eating " + amount + " bamboo shoot(s), nom nom nom.");
 	}
 
+	@Override
+	public String toString() {
+		return "Panda";
+	}
+
 }
