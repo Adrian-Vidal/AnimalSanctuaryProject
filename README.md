@@ -21,5 +21,5 @@
 	
 ## Lessons Learned
 
-- I learned how to read and understand how to properly utilize the ULM diagram. In this project, I found that it was easy to fall off the path provided by the diagram. It is there for a reason, much like a blueprint or guideline to help you achieve your goal.
+- I learned how to read and understand how to properly utilize the UML diagram. In this project, I found that it was easy to fall off the path provided by the diagram. It is there for a reason, much like a blueprint or guideline to help you achieve your goal.
 - Working on this project really showed me the importance of positional awareness. A lot of times, I had the correct code, but it was not where it needed to be in order for it to work.

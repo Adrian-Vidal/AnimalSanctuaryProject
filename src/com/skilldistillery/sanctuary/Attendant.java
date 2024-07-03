@@ -18,6 +18,8 @@ public class Attendant {
 			} else
 				System.out.println("This enclosure is empty, on to the next one.\n");
 		}
+		
+		System.out.println("All animals are happy and fed, time to take a break and feed myself!");
 	}	
 
 }
